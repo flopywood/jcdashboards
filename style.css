@@ -79,12 +79,4 @@ figure{
   border-radius: 5%;
   width: 80%;
   height: auto;
-
-}
-img {
-  opacity: 1;
-  transition: opacity 0.3s;
-}
-img[data-src]{
-  opacity: 0;
 }
